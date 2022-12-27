@@ -1,7 +1,20 @@
 # Voltage-Relay
 IFS voltage relay 
 
+Standalone App instructions:
 
+Use MyAppInstaller_Web- follow instructions
+
+Download Arduino IDE path
+
+Select arduino IDE path during app startup
+
+Select correct C0M port
+
+
+
+
+#Old prototype
 Used Standard Firmata Library to connect with the Ardwidget/Arduino library in processing. 
 
 In arduino, upload Firmata Library.
