@@ -1,5 +1,5 @@
 # Voltage-Relay
-IFS voltage relay 
+# IFS voltage relay 
 
 Standalone App instructions:
 
@@ -14,7 +14,7 @@ Select correct C0M port
 
 
 
-#Old prototype
+# Old prototype
 Used Standard Firmata Library to connect with the Ardwidget/Arduino library in processing. 
 
 In arduino, upload Firmata Library.
